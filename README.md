@@ -10,3 +10,5 @@ git config --list
 3. Commit
 
 ### Source code management (SCM) 
+
+Git Status - To see if any files have been updated
