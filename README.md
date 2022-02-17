@@ -12,8 +12,10 @@ git config --list
 
 ### Source code management (SCM)
 
-git init - To initialize a git repository
-git Status - To see if any files have been updated
-git clone - To clone a remote repository
-git log - To see the commits done by the user
-git log --oneline - To see short logs
+git init - To initialize a git repository <br />
+git Status - To see if any files have been updated <br />
+git clone - To clone a remote repository<br />
+git log - To see the commits done by the user<br />
+git log --oneline - To see short logs<br />
+git log -stat -To see detailed log<br />
+git log -patch -To see much more detailed info with the lines added/deleted<br />
