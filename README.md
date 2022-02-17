@@ -24,5 +24,5 @@ git show shaFromOneline - eg: git show b25dd4a to show a specific change if it s
 when we use git add filename or git add . we are moving a file from working directory to staging area
 <br />
 git commit is used for making the commit
-git commit -m "what has been changed" helps to add comment directly, without the -m it will open a text editor.
+git commit -m "what has been changed" helps to add comment directly, without the -m it will open a text editor. <br />
 git diff -To see the changes in a file
