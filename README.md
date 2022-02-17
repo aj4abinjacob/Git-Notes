@@ -1,5 +1,5 @@
 # Git-Notes
 
-## Git Global Config List
+### Git Global Config List
 git config --list
 
