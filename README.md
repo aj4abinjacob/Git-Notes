@@ -27,3 +27,7 @@ git commit is used for making the commit
 git commit -m "what has been changed" helps to add comment directly, without the -m it will open a text editor. <br />
 git diff -To see the changes in a file <br />
 git restore --staged filename - To pull a file from staging area back to working directory
+
+.gitignore file is used to ignore files/folder
+
+\* is used as a wildcard match and # is used for comments
