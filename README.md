@@ -33,6 +33,11 @@ git restore --staged filename - To pull a file from staging area back to working
 \* is used as a wildcard match and # is used for comments
 
 
+### git tag
+There are two types of tags
+1. Annotated tag [-a](detailed)
+2. Light weight tag (No detail)
+
 git tag used for versioning the commits <br>
 git tag -a 19a297c -To tag a particular commit <br>
 just using git tag will tag the most recent commit <br>
