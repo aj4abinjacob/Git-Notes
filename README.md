@@ -31,3 +31,8 @@ git restore --staged filename - To pull a file from staging area back to working
 .gitignore file is used to ignore files/folder
 
 \* is used as a wildcard match and # is used for comments
+
+
+git tag used for versioning the commits <br>
+git tag -a 19a297c -To tag a particular commit <br>
+just using git tag will tag the most recent commit <br>
