@@ -36,3 +36,5 @@ git restore --staged filename - To pull a file from staging area back to working
 git tag used for versioning the commits <br>
 git tag -a 19a297c -To tag a particular commit <br>
 just using git tag will tag the most recent commit <br>
+The -a in git tag means annotated tag <br>
+git tag -d V1.0 to delete a particular tag
