@@ -45,9 +45,9 @@ The -a in git tag means annotated tag <br>
 git tag -d V1.0 to delete a particular tag <br>
 
 ### git branch
-git branch is used while adding new functionality fixing bugs without effecting the main branch
-git branch - It shows all branches
-git branch branchName - To create  a branch
-git switch branchName - To switch to a branch
-git switch -c branchName - To create and switch to that branch
-git tag -d V1.0 to delete a particular tag
+git branch is used while adding new functionality fixing bugs without effecting the main branch <br>
+git branch - It shows all branches <br>
+git branch branchName - To create  a branch <br>
+git switch branchName - To switch to a branch <br>
+git switch -c branchName - To create and switch to that branch <br>
+git tag -d V1.0 to delete a particular tag <br>
